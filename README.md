@@ -1,6 +1,9 @@
 # Nuget-Number-System
-Convert number from any base to any base 
+Convert number from any base to any base
+<br>
 Binary System to Octal System  
 Octal System to Binary System
-Binary System to Hexadecimal System  
+<br>
+Binary System to Hexadecimal System 
+<br>
 Hexadecimal System to Binary System
