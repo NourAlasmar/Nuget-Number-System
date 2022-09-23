@@ -1,0 +1,12 @@
+C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\bin\Release\net6.0\NourNumberSystem.deps.json
+C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\bin\Release\net6.0\NourNumberSystem.dll
+C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\bin\Release\net6.0\NourNumberSystem.pdb
+C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\obj\Release\net6.0\NourNumberSystem.csproj.AssemblyReference.cache
+C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\obj\Release\net6.0\NourNumberSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\obj\Release\net6.0\NourNumberSystem.AssemblyInfoInputs.cache
+C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\obj\Release\net6.0\NourNumberSystem.AssemblyInfo.cs
+C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\obj\Release\net6.0\NourNumberSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\obj\Release\net6.0\NourNumberSystem.dll
+C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\obj\Release\net6.0\refint\NourNumberSystem.dll
+C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\obj\Release\net6.0\NourNumberSystem.pdb
+C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\obj\Release\net6.0\ref\NourNumberSystem.dll

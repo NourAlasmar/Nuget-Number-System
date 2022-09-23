@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NourNumberSystem</id>
+    <version>1.0.0</version>
+    <title>Nour.NumberSystem</title>
+    <authors>NourAldin Al Asmar</authors>
+    <icon>download.png</icon>
+    <description>Convert number from any base to any base
+
+
+Binary System to Octal System
+ Octal System to Binary System
+Binary System to Hexadecimal System
+ Hexadecimal System to Binary System</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Nour\source\repos\NourNumberSystem\NourNumberSystem\bin\Release\net6.0\NourNumberSystem.dll" target="lib\net6.0\NourNumberSystem.dll" />
+    <file src="C:\Users\Nour\Desktop\download.png" target="\download.png" />
+  </files>
+</package>

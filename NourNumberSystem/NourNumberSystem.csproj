@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Company>NourAldin Al Asmar</Company>
+    <Authors>NourAldin Al Asmar</Authors>
+    <Description>Convert number from any base to any base
+
+
+Binary System to Octal System
+ Octal System to Binary System
+Binary System to Hexadecimal System
+ Hexadecimal System to Binary System</Description>
+    <PackageIcon>download.png</PackageIcon>
+    <PackageId>$(AssemblyName)</PackageId>
+    <Title>Nour.NumberSystem</Title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\download.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
